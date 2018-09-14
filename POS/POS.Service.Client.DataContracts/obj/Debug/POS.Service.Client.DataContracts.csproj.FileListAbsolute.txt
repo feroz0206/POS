@@ -1,0 +1,12 @@
+D:\POS\POS\POS.Service.Client.DataContracts\obj\Debug\POS.Service.Client.DataContracts.csprojResolveAssemblyReference.cache
+D:\POS\POS\POS.Service.Client.DataContracts\obj\Debug\POS.Service.Client.DataContracts.csproj.CoreCompileInputs.cache
+D:\POS\POS\POS.Service.Client.DataContracts\bin\Debug\POS.Service.Client.DataContracts.dll
+D:\POS\POS\POS.Service.Client.DataContracts\bin\Debug\POS.Service.Client.DataContracts.pdb
+D:\POS\POS\POS.Service.Client.DataContracts\obj\Debug\POS.Service.Client.DataContracts.dll
+D:\POS\POS\POS.Service.Client.DataContracts\obj\Debug\POS.Service.Client.DataContracts.pdb
+C:\Users\feroz\Desktop\POS\POS\POS\POS.Service.Client.DataContracts\bin\Debug\POS.Service.Client.DataContracts.dll
+C:\Users\feroz\Desktop\POS\POS\POS\POS.Service.Client.DataContracts\bin\Debug\POS.Service.Client.DataContracts.pdb
+C:\Users\feroz\Desktop\POS\POS\POS\POS.Service.Client.DataContracts\obj\Debug\POS.Service.Client.DataContracts.csprojAssemblyReference.cache
+C:\Users\feroz\Desktop\POS\POS\POS\POS.Service.Client.DataContracts\obj\Debug\POS.Service.Client.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\feroz\Desktop\POS\POS\POS\POS.Service.Client.DataContracts\obj\Debug\POS.Service.Client.DataContracts.dll
+C:\Users\feroz\Desktop\POS\POS\POS\POS.Service.Client.DataContracts\obj\Debug\POS.Service.Client.DataContracts.pdb
